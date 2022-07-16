@@ -89,6 +89,11 @@ hash = "d16e0db41806840dc72dfa44174896e088dd325249fc17ca0dac69af9fdc0518"
 metafile = true
 
 [[files]]
+file = "mods/cleancut.pw.toml"
+hash = "5e68cd93dca50b9f8f62dd87640d3341452ae013bc968d00f424cb9ebab4d51c"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "f9d1b42c420189d839c9fb8a8ca9d53062c49b98e9be997245dc40b797030430"
 metafile = true
