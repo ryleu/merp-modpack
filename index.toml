@@ -74,6 +74,11 @@ hash = "630f2a08fec8cbd13578bdd277bf664563c81ce94d1095b0a8e2a71f80819251"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "fcbf2974aa78e3b8e7bc7db90228af847fd06c6793799840d2a372ae254f488c"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "9a9d420bed52804bd07f26184790f219fe7cbc95533e44338d04e5f3e7df1825"
 metafile = true
@@ -109,6 +114,11 @@ hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "bafd39266238b92226a1fb61700015fc87fba25ce3a8ea4781d6d311079979d9"
 metafile = true
@@ -116,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
@@ -134,6 +149,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/frame-api.pw.toml"
+hash = "59722a8473550c953be5c4febf5e1f29822cf8f566ea79d3537fb00e6e90b2f3"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "8643f8b33b624aa289193c93e639f71b36434a60281d6be24e744f5f9c97cadd"
 metafile = true
@@ -141,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "a01b9558d05148791fa2423781bd6d72778a48a1bc4da072d9dc55e417e26bf3"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5ed766bc2ca05f34d7c590b540b2ce440ee6baee06fa0e55b712cf175823cd37"
 metafile = true
 
 [[files]]
