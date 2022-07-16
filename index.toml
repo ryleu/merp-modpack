@@ -169,18 +169,8 @@ hash = "5ed766bc2ca05f34d7c590b540b2ce440ee6baee06fa0e55b712cf175823cd37"
 metafile = true
 
 [[files]]
-file = "mods/grass-kiss.pw.toml"
-hash = "01f38b40d622c2fc4247d0e480ab90f10f7cb1c94ac6bc161cf42d2dd72b5dc8"
-metafile = true
-
-[[files]]
 file = "mods/harvest-scythes.pw.toml"
 hash = "0f416da00d5aea40de1d7d38ca2512a30edc853b1f750e87a05ea43c915e21e4"
-metafile = true
-
-[[files]]
-file = "mods/health-overlay-fabric.pw.toml"
-hash = "328c68da93aaa62cbadf4dfc5a8e67b74342f409ca44c0228d1b4c248681d2f5"
 metafile = true
 
 [[files]]
