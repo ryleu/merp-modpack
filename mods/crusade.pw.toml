@@ -1,0 +1,13 @@
+name = "Crusade"
+filename = "crusade-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pPSNgJFc/versions/1.2.8/crusade-1.2.8.jar"
+hash-format = "sha1"
+hash = "eb8b43870148ad83224679b3f9df949189b6a26f"
+
+[update]
+[update.modrinth]
+mod-id = "pPSNgJFc"
+version = "oCb4SA5O"

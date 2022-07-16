@@ -1,0 +1,13 @@
+name = "Victus - Custom Hearts"
+filename = "victus-0.1.11+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sy5mAKPK/versions/0.1.11+1.19/victus-0.1.11%2B1.19.jar"
+hash-format = "sha1"
+hash = "45d850200002f03b2b9b46f7484c81c088bef17b"
+
+[update]
+[update.modrinth]
+mod-id = "Sy5mAKPK"
+version = "xQ1oaxe3"
