@@ -39,6 +39,11 @@ hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "751d59d921d1fdbd0fa4a84355b17be8c9c39dde669688ef33d1611a76e501e8"
 metafile = true
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "630f2a08fec8cbd13578bdd277bf664563c81ce94d1095b0a8e2a71f80819251"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "b1b9c9516a2c3ff06ca5061aa6b5461c36d6ee6b5f95feb3a1b510ccf94b942b"
 metafile = true
 
 [[files]]
@@ -184,11 +194,6 @@ hash = "baf5bb082169d947ed02468a7dee7ca01f5445f4b3d81489a54e03302676ec15"
 metafile = true
 
 [[files]]
-file = "mods/impaled.pw.toml"
-hash = "232c69d47c4466a97e5e6717940d57407438a99cb91b665349fb4282d8f76243"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
@@ -244,6 +249,11 @@ hash = "aba200ac8818fe5ce59c1cb342dcd530b81e3ea85ce2e9f9c1d3a8863b8b1be7"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "5f2f6c66bb48563bb9d0ae4848751207a44f578435c198c430a3e2e705c452f5"
+metafile = true
+
+[[files]]
 file = "mods/moborigins.pw.toml"
 hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
 metafile = true
@@ -279,6 +289,11 @@ hash = "f2d4ffd080075ee4a28e60ab33793e49fd85515e77b6ff978d370fc928e6324c"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "91b558433050a895a6f5b526fc401163821a539ea243d78a629763f15c5d8dc7"
 metafile = true
@@ -311,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "a699a941a8354f49dded3e15a08603f3c134ef861ee4bf38960911cfc020c583"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
 metafile = true
 
 [[files]]
@@ -366,6 +386,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+metafile = true
+
+[[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "f1dd12f549aad6b34f50b67344c50e316a9c4acdb2b1722d1e66f9e491c18c6e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
 metafile = true
 
 [[files]]
